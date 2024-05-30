@@ -2,11 +2,11 @@
 // Initial Template for C++
 
 // {Driver Code Starts
-#include <iostream>;
-#include <vector>;
-#include<algorithm>;
-#include <string>;
-#include <unordered_map> ;
+#include <iostream>
+#include <vector>
+#include<algorithm>
+#include <string>
+#include <unordered_map> 
 using namespace std;
 // } Driver Code Ends
 
